@@ -1,2 +1,2 @@
 This is for git, fetch+merge and git pull  it clone of github . 
-if you want to make new file in guthib so we need to clone on workspace
+if you want to make new file in guthub so we need to clone on workspace
